@@ -10,20 +10,20 @@ I'm also exploring Artificial Intelligence to understand its applications for  d
 
 ## 🚀 What I Do
 <br>
-- Build responsive and interactive **web applications** <br>
-- Focus on **clean, maintainable code** & scalable architecture <br>
-- Solve **DSA problems** to strengthen core computer science concepts <br>
-- Explore **AI technologies** and how they integrate with full-stack development
+- Build responsive and interactive web applications <br>
+- Focus on clean, maintainable code & scalable architecture <br>
+- Solve DSA problems to strengthen core computer science concepts <br>
+- Explore AI technologies and how they integrate with full-stack development
 - <br><br>---<br><br>
 
 ## 🛠️ Tech Stack
 <br>
-**Frontend:** React.js, HTML, CSS, JavaScript <br>
-**Backend:** Node.js, Express.js <br>
-**Database:** MongoDB <br>
-**Version Control:** Git, GitHub <br>
-**Programming:** JavaScript, Python (beginner) <br>
-**Learning:** Data Structures & Algorithms,
+Frontend: React.js, HTML, CSS, JavaScript <br>
+Backend: Node.js, Express.js <br>
+Database: MongoDB <br>
+Version Control: Git, GitHub <br>
+Programming: JavaScript, Python (beginner) <br>
+Learning: Data Structures & Algorithms,
 <br><br>---<br><br>
 
 
