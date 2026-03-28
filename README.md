@@ -2,10 +2,10 @@
 
 
 <br>
-I'm Sameeha, an **aspiring full-stack developer** passionate about creating modern, scalable, and impactful web applications. 
+I'm Sameeha, an  full-stack developer passionate about creating modern, scalable, and impactful web applications. 
 <br><br> 
-Currently, I’m mastering the **MERN stack (MongoDB, Express.js, React, Node.js)** and enhancing my **problem-solving skills through Data Structures & Algorithms**.
-I'm also **exploring Artificial Intelligence** to understand its applications for  data-driven web apps in the future. 
+Currently, I’m mastering the MERN stack (MongoDB, Express.js, React, Node.js) and enhancing my problem-solving skills through Data Structures & Algorithms.
+I'm also exploring Artificial Intelligence to understand its applications for  data-driven web apps in the future. 
 <br><br>---<br><br>
 
 ## 🚀 What I Do
