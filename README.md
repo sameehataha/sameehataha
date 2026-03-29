@@ -51,8 +51,8 @@ https://travel-app-frontend-sigma.vercel.app/
 
 ##  GitHub Stats
 
-![Sameeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameehataha&show_icons=true&theme=radiant&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameehataha&layout=compact&theme=radiant)
+![Sameeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameehataha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameehataha&layout=compact&theme=radical)
 
 
 
