@@ -50,17 +50,6 @@ https://real-time-chat-application-frontend-rho.vercel.app/login
 https://travel-app-frontend-sigma.vercel.app/
 
 
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Sameeha's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
-</p>
-
-
-
 ##  Let's Connect
 
 I'm actively looking for **full-stack developer roles** and **collaborative open-source opportunities**.
