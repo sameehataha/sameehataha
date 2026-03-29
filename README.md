@@ -1,40 +1,69 @@
- Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px">
+# 👋 Hi there! I'm Sameeha
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameehataha)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sameehataha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameehataha@example.com)
 
-<br>
-I'm Sameeha, an  full-stack developer passionate about creating modern, scalable, and impactful web applications. 
-<br><br> 
-Currently, I’m mastering the MERN stack (MongoDB, Express.js, React, Node.js) and enhancing my problem-solving skills through Data Structures & Algorithms.
-I'm also exploring Artificial Intelligence to understand its applications for  data-driven web apps in the future. 
-<br><br>---<br><br>
+---
 
-## 🚀 What I Do
-<br>
-- Build responsive and interactive web applications <br>
-- Focus on clean, maintainable code & scalable architecture <br>
-- Solve DSA problems to strengthen core computer science concepts <br>
-- Explore AI technologies and how they integrate with full-stack development
-- <br><br>---<br><br>
+## 💫 About Me
 
-## 🛠️ Tech Stack
-<br>
-Frontend: React.js, HTML, CSS, JavaScript <br>
-Backend: Node.js, Express.js <br>
-Database: MongoDB <br>
-Version Control: Git, GitHub <br>
-Programming: JavaScript, Python (beginner) <br>
-Learning: Data Structures & Algorithms,
-<br><br>---<br><br>
+I'm a **full-stack developer** passionate about building modern, scalable, and impactful web applications. I combine clean code with thoughtful architecture to deliver seamless user experiences.
 
+**Currently focused on:**
+- Mastering the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- Strengthening **DSA & problem-solving** skills
+- Exploring **AI integration** in web applications
 
-## 🌐 Socials: 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameehataha) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sameehataha)
+ **Looking for:** Full-stack development opportunities where I can contribute, learn, and grow
 
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+##  Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React.js, React Native, Next.js, HTML5, CSS3, TailwindCSS, Redux |
+| **Backend** | Node.js, Express.js, JWT, Socket.io |
+| **Database** | MongoDB |
+| **Languages** | JavaScript (ES6+), TypeScript, Python |
+| **Tools & Platforms** | Git, GitHub, Vercel, Netlify, Postman, Figma, Vite, NPM |
+| **Currently Learning** | Data Structures & Algorithms, Advanced TypeScript |
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+##  Featured Projects
+
+> *Check out my repositories for live demos and code*
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+|  **Talkie - Real-Time Chat Application** | MERN + Tailwind | Real-time features, JWT auth |
+|  **Hotel Booking Platform (Booking.com)** | React + Redux + Node | State management, REST APIs |
+
+# **Talkie - Real-Time Chat Application** 
+https://real-time-chat-application-frontend-rho.vercel.app/login
+
+# **Hotel Booking Platform (Booking.com)**
+https://travel-app-frontend-sigma.vercel.app/
+
+
+
+##  GitHub Stats
+
+![Sameeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameehataha&show_icons=true&theme=radiant&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameehataha&layout=compact&theme=radiant)
+
+
+
+##  Let's Connect
+
+I'm actively looking for **full-stack developer roles** and **collaborative open-source opportunities**.
+
+-  [LinkedIn](https://www.linkedin.com/in/sameehataha)
+- [Medium Blog](https://medium.com/@sameehataha)
+-  sameehataha24@gmail.com
+
+
+
+⭐ *Open to networking, mentorship, and job opportunities — feel free to reach out!*
