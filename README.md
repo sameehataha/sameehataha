@@ -32,7 +32,7 @@ I'm a **full-stack developer** passionate about building modern, scalable, and i
 
 
 
-## 📌 Featured Projects
+##  Featured Projects
 
 > *Check out my repositories for live demos and code*
 
